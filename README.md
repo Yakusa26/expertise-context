@@ -9,7 +9,10 @@ To download the project, navigate to the folder where you want to put the projec
 git clone https://github.com/Yakusa26/expertise-context
 ```
 
-Then ``` cd .\expertise-context\ ```
+Then 
+``` 
+cd .\expertise-context\ 
+```
 
 ## Available Scripts
 
