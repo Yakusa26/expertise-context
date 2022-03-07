@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Obtaining the project
+
+To download the project, navigate to the folder where you want to put the project then type the command ---git clone https://github.com/Yakusa26/expertise-context/edit/main/README.md---
+
 ## Available Scripts
 
 In the project directory, you can run:
